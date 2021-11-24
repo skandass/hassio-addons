@@ -20,3 +20,5 @@ config/*
 # Development documentation
 PR_DESCRIPTION.md
 /.vs
+
+.idea/
