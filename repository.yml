@@ -1,5 +1,5 @@
 ---
 
-name: Fmartinou add-ons
-url: https://github.com/fmartinou/hassio-addons
-maintainer: fmartinou
+name: Romain add-ons
+url: https://github.com/romainboucher/hassio-addons.git
+maintainer: romainboucher
