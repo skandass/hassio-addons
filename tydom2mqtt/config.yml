@@ -2,8 +2,8 @@
 
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
-image: fmartinou/tydom2mqtt
-version: feature__183
+image: fmartinou/tydom2mqtt:feature__183
+version: 4.0.0
 slug: tydom2mqtt
 description: Deltadore Tydom to MQTT Bridge
 arch:
