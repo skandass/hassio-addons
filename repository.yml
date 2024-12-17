@@ -1,5 +1,5 @@
 ---
 
-name: Romain add-ons
-url: https://github.com/romainboucher/hassio-addons.git
-maintainer: romainboucher
+name: tydom2mqtt add-ons
+url: https://github.com/tydom2mqtt/hassio-addons.git
+maintainer: tydom2mqtt
