@@ -2,7 +2,7 @@
 
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
-image: ghcr.io/romainboucher/tydom2mqtt
+image: ghcr.io/tydom2mqtt/tydom2mqtt
 version: master
 slug: tydom2mqtt
 description: Deltadore Tydom to MQTT Bridge
@@ -12,7 +12,7 @@ arch:
   - aarch64
   - amd64
   - i386
-url: https://github.com/romainboucher/hassio-addons.git
+url: https://github.com/tydom2mqtt/hassio-addons.git
 services:
   - mqtt:need
 
