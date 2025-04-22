@@ -12,7 +12,7 @@ tydom2mqtt hass.io add-ons repository.
 
 #### 2. Click on the `Repositories` menu item
 
-#### 3. Add the git http url ([https://github.com/tydom2mqtt/hassio-addons.git](https://github.com/tydom2mqtt/hassio-addons.git))
+#### 3. Add the git http url ([https://github.com/skandass/hassio-addons.git](https://github.com/skandass/hassio-addons.git))
 
 ### How to install an add-on?
 
