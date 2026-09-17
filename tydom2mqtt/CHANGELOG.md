@@ -2,6 +2,16 @@
 
 Evolutions notables de l'add-on tydom2mqtt.
 
+## 1.2.0
+
+- Synchronisation avec l'amont `tydom2mqtt/tydom2mqtt` 3.6.0 :
+  - endpoint de healthcheck + `HEALTHCHECK` Docker ;
+  - TySense : valeurs numeriques + `device_class`/unites Home Assistant ;
+  - chaudiere : gestion correcte des modes HVAC (heat/cool/off, fin du clignotement) ;
+  - `MQTT_SSL` interprete comme un booleen ;
+  - CI amelioree et documentation.
+- Specificites du fork conservees : `device_templates`, base `python:3.11-alpine3.24`,
+  execution en root (requise par le Supervisor), `.dockerignore` en minuscules.
 ## 1.1.3
 
 - FIX : l'add-on tournait en utilisateur non-root, ce qui empechait la
